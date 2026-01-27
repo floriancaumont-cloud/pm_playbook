@@ -1,3 +1,9 @@
+---
+title: "Retrospective"
+description: "A structured template for running retrospectives that support continuous improvement, learning, and team alignment."
+summary: "Template to reflect, learn, and improve team performance."
+---
+
 # Retrospective Template
 
 ## Purpose
