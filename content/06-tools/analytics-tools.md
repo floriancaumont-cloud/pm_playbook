@@ -4,7 +4,7 @@ description: "Tools for product analytics, experimentation, and data-informed de
 summary: "Tools commonly used by Product Managers for analysis purposes."
 ---
 
-# Analytics Tools
+# List of analytics tools
 
 - Google Analytics
 - Amplitude
