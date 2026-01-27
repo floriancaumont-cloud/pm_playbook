@@ -2,6 +2,7 @@
 title: "Decision-Making Framework"
 description: "Frameworks to support structured and transparent decision-making in product management, helping teams evaluate options, trade-offs, and risks."
 summary: "Frameworks for making clear, structured, and defensible product decisions."
+weight: 10
 ---
 
 ## Purpose
