@@ -1,3 +1,8 @@
+---
+title: "Decision Making"
+description: "How to make decisions as a Product Manager."
+---
+
 # Decision Making as a PM
 
 PMs make decisions with incomplete information every day.
