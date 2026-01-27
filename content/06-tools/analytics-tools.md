@@ -1,7 +1,7 @@
 ---
 title: "Analytics Tools"
 description: "Tools for product analytics, experimentation, and data-informed decision-making."
-summary: "A curated list of analytics tools commonly used by Product Managers."
+summary: "Tools commonly used by Product Managers for analysis purposes."
 ---
 
 # Analytics Tools
