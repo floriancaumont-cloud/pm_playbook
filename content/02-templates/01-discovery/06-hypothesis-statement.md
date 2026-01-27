@@ -1,3 +1,9 @@
+---
+title: "Hypothesis Statement"
+description: "A template to formulate clear, testable hypotheses that link assumptions to expected outcomes."
+summary: "Template to write testable hypotheses."
+---
+
 # Hypothesis Statement Template
 
 ## Purpose
