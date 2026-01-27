@@ -1,4 +1,8 @@
-# Discovery Framework
+---
+title: "Discovery Framework"
+description: "Frameworks that guide product discovery activities, from understanding user problems to validating assumptions and shaping solutions."
+summary: "Frameworks to structure product discovery and problem validation."
+---
 
 ## Purpose
 Reduce uncertainty before committing to delivery.
