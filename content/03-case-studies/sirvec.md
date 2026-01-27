@@ -2,6 +2,7 @@
 title: "SIRVEC"
 description: "Evidence Tracking & Chain of Custody Platform."
 summary: "Evidence Tracking & Chain of Custody Platform."
+weight: 30
 ---
 
 # SIRVEC — Evidence Tracking & Chain of Custody Platform
