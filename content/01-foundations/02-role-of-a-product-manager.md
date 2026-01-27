@@ -1,3 +1,8 @@
+---
+title: "The Role of a Product Manager"
+description: "Definition of the role of a Product Manager"
+---
+
 # The Role of a Product Manager
 
 A Product Manager is accountable for defining problems, aligning stakeholders, and guiding teams toward valuable outcomes.
