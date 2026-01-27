@@ -1,3 +1,9 @@
+---
+title: "Discovery Tools"
+description: "Product discovery tools that help Product Managers research user needs, validate assumptions, and test solutions early."
+summary: "Tools for user research, prototyping, discovery interviews, and validation."
+---
+
 # Discovery Tools
 
 - Figma (prototypes)
