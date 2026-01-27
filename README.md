@@ -28,24 +28,50 @@ Whether you are an **Aspiring PM**, **Product Manager**, **Product Owner**, or *
 
 ### 🧩 1. Product Management Foundations
 
-* Product vs Project vs Delivery
-* Role of a Product Manager
-* Stakeholder management
-* Outcome-driven thinking
-* Metrics & OKRs
+- [What is product management](01-foundations/01-what-is-product-management.md)
+- [Role of a product manager](01-foundations/02-role-of-a-product-manager.md)
+- [Problem vs solution thinking](01-foundations/03-problem-vs-solution-thinking.md)
+- [Outcomes vs Output](01-foundations/04-outcomes-vs-output.md)
+- [Product lifecycle](01-foundations/05-product-lifecycle.md)
+- [Stakeholder management](01-foundations/06-stakeholder-management.md)
+- [Decision making](01-foundations/07-decision-making.md)
+- [Metrics and success](01-foundations/08-metrics-and-success.md)
+- [Product principles](01-foundations/09-product-principles.md)
+- [Common PM mistakes](01-foundations/10-common-pm-mistakes.md)
 
-### 🛠️ 2. Templates & Tools
+### 🛠️ 2. Templates
 
 Reusable templates you can directly apply at work:
 
-* Product Vision & Strategy
-* Roadmaps (Now / Next / Later)
-* PRDs & Lightweight Specs
-* User Personas
-* Opportunity Solution Trees
-* Discovery Interview Guides
-* OKRs & KPIs
-* Sprint & Delivery Artifacts
+For Discovery:
+- [Problem statement](02-templates/01-discovery/01-problem-statement.md)
+- [User persona](02-templates/01-discovery/02-user-persona.md)
+- [User interview guide](02-templates/01-discovery/03-user-interview-guide.md)
+- [Assumption mapping](02-templates/01-discovery/04-assumption-mapping.md)
+- [Opportunity solution tree](02-templates/01-discovery/05-opportunity-solution-tree.md)
+- [Hypothesis statement](02-templates/01-discovery/06-hypothesis-statement.md)
+- [Experiment plan](02-templates/01-discovery/07-experiment-plan.md)
+- [Discovery summary](02-templates/01-discovery/08-discovery-summary.md)
+
+For Strategy
+- [Product vision](02-templates/02-strategy/01-product-vision.md)
+- [Product strategy](02-templates/02-strategy/02-product-strategy.md)
+- [Product principles](02-templates/02-strategy/03-product-principles.md)
+- [Roadmap](02-templates/02-strategy/04-roadmap.md)
+- [Prioritization framework](02-templates/02-strategy/05-prioritization-framework.md)
+
+For Delivery:
+- [Product](02-templates/03-delivery/01-prd.md)
+- [Backlog refinement](02-templates/03-delivery/02-backlog-refinement.md)
+- [Sprint goal](02-templates/03-delivery/03-sprint-goal.md)
+- [Release plan](02-templates/03-delivery/04-release-plan.md)
+- [Retrospective](02-templates/03-delivery/05-retrospective.md)
+
+For Metrics
+- [North star metric](02-templates/04-metrics/01-north-star-metric.md)
+- [OKRs](02-templates/04-metrics/02-okrs.md)
+- [KPIs](02-templates/04-metrics/03-kpis.md)
+- [Experiment metrics](02-templates/04-metrics/04-experiment-metrics.md)
 
 All templates aim to be:
 
@@ -55,49 +81,42 @@ All templates aim to be:
 
 ---
 
-### 🔍 3. Discovery & Research
+### 🔍 3. Case studies
 
-* Problem discovery frameworks
-* User interview techniques
-* Hypothesis-driven discovery
-* Validation methods
-* Prioritization frameworks (RICE, ICE, MoSCoW, etc.)
-
----
-
-### 🚢 4. Delivery & Execution
-
-* Agile & Scrum best practices
-* Working with Engineers & Designers
-* Backlog management
-* Trade-offs & decision-making
-* Managing technical debt
-* Shipping vs polishing
-
----
-
-### 📈 5. Strategy, Growth & Metrics
-
-* Product strategy examples
-* North Star Metrics
-* Growth loops
-* Experimentation
-* Data-informed decision making
-
----
-
-### 🧪 6. Personal Projects & Case Studies
-
-Real or simulated projects including:
-
-* Context & problem statement
-* Assumptions & constraints
-* Discovery insights
-* Decisions made & trade-offs
-* What worked / what didn’t
-* Lessons learned
+- [Case study template](03-case-studies/case-study-template.md)
+- [Natural Capital](03-case-studies/natural-capital.md)
+- [SIRVEC](03-case-studies/sirvec.md)
 
 These are **not perfect success stories**, but honest learning experiences.
+
+---
+
+### 🚢 4. Frameworks
+
+- [Discovery](04-frameworks/discovery.md)
+- [Decision making](04-frameworks/decision-making.md)
+- [Prioritization](04-frameworks/prioritization.md)
+- [Problem framing](04-frameworks/problem-framing.md) 
+- [Strategy](04-frameworks/strategy.md)
+
+---
+
+### 📈 5. Resources
+
+- [Articles](05-resources/articles.md)
+- [Books](05-resources/books.md)
+- [Communitites](05-resources/communities.md)
+- [Courses and certifications](05-resources/courses-certifications.md)
+- [Podcasts](05-resources/podcasts.md)
+
+---
+
+### 🧪 6. Tools
+
+- [Analytics tools](06-tools/analytics-tools.md)
+- [Collaboration tools](06-tools/collaboration-tools.md)
+- [Delivery tools](06-tools/delivery-tools.md)
+- [Discovery tools](06-tools/discovery-tools.md)
 
 ---
 
