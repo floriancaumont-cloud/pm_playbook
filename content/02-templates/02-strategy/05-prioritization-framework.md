@@ -1,3 +1,9 @@
+---
+title: "Prioritization"
+description: "A template to evaluate and prioritize product initiatives using clear criteria, trade-offs, and strategic alignment."
+summary: "Template to prioritize product work and initiatives."
+---
+
 # Prioritization Template
 
 ## Purpose
