@@ -1,3 +1,8 @@
+---
+title: "Problem vs Solution Thinking"
+description: "The difference between Problem and Solution Thinking"
+---
+
 # Problem vs Solution Thinking
 
 Strong Product Managers fall in love with problems, not solutions.
