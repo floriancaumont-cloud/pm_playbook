@@ -1,4 +1,10 @@
-# Discovery Summary
+---
+title: "Discovery Summary"
+description: "A template to synthesize discovery insights, learnings, decisions, and next steps."
+summary: "Template to summarize discovery outcomes."
+---
+
+# Discovery Summary Template
 
 ## Purpose
 Capture and communicate discovery learnings clearly.
