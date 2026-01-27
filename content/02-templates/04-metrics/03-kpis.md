@@ -1,3 +1,9 @@
+---
+title: "KPIs"
+description: "A template to define and track Key Performance Indicators that measure product performance, health, and impact over time."
+summary: "Template to define and monitor product KPIs."
+---
+
 # KPI Template
 
 ## Purpose
