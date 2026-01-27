@@ -2,6 +2,7 @@
 title: "User Persona"
 description: "A template to capture key user characteristics, needs, motivations, and behaviors to inform product discovery and decisions."
 summary: "Template to define user personas."
+weight: 20
 ---
 
 # User Persona Template
