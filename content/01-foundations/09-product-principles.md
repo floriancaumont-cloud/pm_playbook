@@ -1,3 +1,8 @@
+---
+title: "Product Principles"
+description: "Main principles to follow for a good product."
+---
+
 # Product Principles
 
 Product principles are decision filters, not slogans.
