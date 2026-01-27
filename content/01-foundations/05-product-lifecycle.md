@@ -1,6 +1,6 @@
 ---
 title: "Product Lifecycle"
-description: "The definition of the Product Lifecycle"
+description: "The definition of the Product Lifecycle."
 ---
 
 # The Product Lifecycle
