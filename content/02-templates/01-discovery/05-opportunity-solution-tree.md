@@ -1,3 +1,9 @@
+---
+title: "Opportunity Solution Tree"
+description: "A template to visualize opportunities, solutions, and experiments, connecting user problems to outcomes."
+summary: "Template to map opportunities, solutions, and experiments."
+---
+
 # Opportunity Solution Tree Template
 
 ## Purpose
