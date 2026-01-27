@@ -1,3 +1,8 @@
+---
+title: "Common PM Mistakes"
+description: "Common mistakes a Product Manager faces."
+---
+
 # Common Product Manager Mistakes
 
 Mistakes are inevitable — repeating them is optional.
