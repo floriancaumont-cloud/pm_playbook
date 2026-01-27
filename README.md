@@ -124,16 +124,21 @@ These are **not perfect success stories**, but honest learning experiences.
 
 ```bash
 .
-├── foundations/
-├── templates/
-│   ├── discovery/
-│   ├── strategy/
-│   ├── delivery/
-│   └── metrics/
-├── case-studies/
-├── frameworks/
-├── resources/
-├── tools/
+├── 01-foundations/
+├── 02-templates/
+│   ├── 01-discovery/
+│   ├── 02-strategy/
+│   ├── 03-delivery/
+│   ├── 04-metrics/
+│   └── README.md
+├── 03-case-studies/
+│   └── README.md
+├── 04-frameworks/
+│   └── README.md
+├── 05-resources/
+│   └── README.md
+├── 06-tools/
+│   └── README.md
 └── README.md
 ```
 
