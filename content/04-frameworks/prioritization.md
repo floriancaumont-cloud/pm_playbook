@@ -2,6 +2,7 @@
 title: "Prioritization Framework"
 description: "Frameworks to help Product Managers prioritize initiatives, features, and opportunities based on impact, effort, risk, and strategic alignment."
 summary: "Frameworks for prioritizing product work and making trade-offs explicit."
+weight: 30
 ---
 
 ## Purpose
