@@ -1,37 +1,15 @@
 baseURL: "https://floriancaumont-cloud.github.io/pm_playbook/"
-languageCode: en-us
-title: "Project Manager Playbook"
-theme: PaperMod
+languageCode: "en-us"
+title: "PM Playbook"
+theme: "PaperMod"
 
-paginate: 20
+pagination:
+  pagerSize: 10
 
 enableRobotsTXT: true
 
 params:
+  defaultTheme: auto
+  ShowReadingTime: true
   ShowBreadCrumbs: true
-  ShowToc: true
-  TocOpen: false
-  ShowReadingTime: false
-  ShowPostNavLinks: true
-
-menu:
-  main:
-    - name: Foundations
-      url: /01-foundations/
-      weight: 1
-    - name: Templates
-      url: /02-templates/
-      weight: 2
-    - name: Case Studies
-      url: /03-case-studies/
-      weight: 3
-    - name: Frameworks
-      url: /04-frameworks/
-      weight: 4
-    - name: Resources
-      url: /05-resources/
-      weight: 5
-    - name: Tools
-      url: /06-tools/
-      weight: 6
-
+  ShowCodeCopyButtons: true
