@@ -4,7 +4,7 @@ description: "Tools that support product delivery, execution, and team coordinat
 summary: "Tools for roadmapping, backlog management, delivery tracking, and execution."
 ---
 
-# List of delivery tools
+## List of delivery tools
 
 - Jira / Linear
 - GitHub
