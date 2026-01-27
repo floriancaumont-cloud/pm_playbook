@@ -1,5 +1,5 @@
 ---
 title: "Delivery Templates"
-weight: 1
+weight: 3
 ---
 Templates to support product delivery activities.
