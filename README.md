@@ -7,7 +7,7 @@ This repository is designed to be **practical**, **actionable**, and **continuou
 
 ---
 
-## 🚀 Purpose of This Repository
+## Purpose of This Repository
 
 Product Management is learned best through **real examples**, **clear thinking**, and **repeatable tools**.
 
@@ -24,9 +24,9 @@ Whether you are an **Aspiring PM**, **Product Manager**, **Product Owner**, or *
 
 ---
 
-## 📚 What You’ll Find Here
+## What You’ll Find Here
 
-### 🧩 1. Product Management Foundations
+### 🧱 1. Product Management Foundations
 
 - [What is product management](01-foundations/01-what-is-product-management.md)
 - [Role of a product manager](01-foundations/02-role-of-a-product-manager.md)
@@ -39,11 +39,11 @@ Whether you are an **Aspiring PM**, **Product Manager**, **Product Owner**, or *
 - [Product principles](01-foundations/09-product-principles.md)
 - [Common PM mistakes](01-foundations/10-common-pm-mistakes.md)
 
-### 🛠️ 2. Templates
+### 📄 2. Templates
 
 Reusable templates you can directly apply at work:
 
-For Discovery:
+🔍 For Discovery:
 - [Problem statement](02-templates/01-discovery/01-problem-statement.md)
 - [User persona](02-templates/01-discovery/02-user-persona.md)
 - [User interview guide](02-templates/01-discovery/03-user-interview-guide.md)
@@ -53,21 +53,21 @@ For Discovery:
 - [Experiment plan](02-templates/01-discovery/07-experiment-plan.md)
 - [Discovery summary](02-templates/01-discovery/08-discovery-summary.md)
 
-For Strategy
+♟️ For Strategy
 - [Product vision](02-templates/02-strategy/01-product-vision.md)
 - [Product strategy](02-templates/02-strategy/02-product-strategy.md)
 - [Product principles](02-templates/02-strategy/03-product-principles.md)
 - [Roadmap](02-templates/02-strategy/04-roadmap.md)
 - [Prioritization framework](02-templates/02-strategy/05-prioritization-framework.md)
 
-For Delivery:
+🚀 For Delivery:
 - [Product](02-templates/03-delivery/01-prd.md)
 - [Backlog refinement](02-templates/03-delivery/02-backlog-refinement.md)
 - [Sprint goal](02-templates/03-delivery/03-sprint-goal.md)
 - [Release plan](02-templates/03-delivery/04-release-plan.md)
 - [Retrospective](02-templates/03-delivery/05-retrospective.md)
 
-For Metrics
+📊 For Metrics
 - [North star metric](02-templates/04-metrics/01-north-star-metric.md)
 - [OKRs](02-templates/04-metrics/02-okrs.md)
 - [KPIs](02-templates/04-metrics/03-kpis.md)
@@ -81,7 +81,7 @@ All templates aim to be:
 
 ---
 
-### 🔍 3. Case studies
+### 🗂️ 3. Case studies
 
 - [Case study template](03-case-studies/case-study-template.md)
 - [Natural Capital](03-case-studies/natural-capital.md)
@@ -91,7 +91,7 @@ These are **not perfect success stories**, but honest learning experiences.
 
 ---
 
-### 🚢 4. Frameworks
+### 🧩 4. Frameworks
 
 - [Discovery](04-frameworks/discovery.md)
 - [Decision making](04-frameworks/decision-making.md)
@@ -101,7 +101,7 @@ These are **not perfect success stories**, but honest learning experiences.
 
 ---
 
-### 📈 5. Resources
+### 📚 5. Resources
 
 - [Articles](05-resources/articles.md)
 - [Books](05-resources/books.md)
@@ -111,7 +111,7 @@ These are **not perfect success stories**, but honest learning experiences.
 
 ---
 
-### 🧪 6. Tools
+### 🛠️ 6. Tools
 
 - [Analytics tools](06-tools/analytics-tools.md)
 - [Collaboration tools](06-tools/collaboration-tools.md)
