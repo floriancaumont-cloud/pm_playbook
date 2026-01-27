@@ -2,6 +2,7 @@
 title: "Backlog Refinement"
 description: "A template to support effective backlog refinement, ensuring clarity, prioritization, and readiness of product work."
 summary: "Template to prepare, clarify, and prioritize backlog items."
+weight: 20
 ---
 
 # Backlog Refinement Template
