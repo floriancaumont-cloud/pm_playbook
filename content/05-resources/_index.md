@@ -1,5 +1,5 @@
 ---
 title: "Resources"
-description: "Resources for Product Manager."
+description: "A curated list of high-quality resources for learning Product Management."
 weight: 5
 ---
