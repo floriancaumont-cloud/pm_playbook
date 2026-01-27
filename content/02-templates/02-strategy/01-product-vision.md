@@ -2,6 +2,7 @@
 title: "Product Vision"
 description: "A template to define and communicate a clear product vision that aligns teams and stakeholders around long-term direction and purpose."
 summary: "Template to define and communicate a clear product vision."
+weight: 10
 ---
 
 # Product Vision Template
