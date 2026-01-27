@@ -2,6 +2,7 @@
 title: "Problem Framing Framework"
 description: "Frameworks for clearly defining, framing, and communicating product problems before jumping to solutions."
 summary: "Frameworks to clarify product problems and align teams on what to solve."
+weight: 40
 ---
 
 ## Purpose
