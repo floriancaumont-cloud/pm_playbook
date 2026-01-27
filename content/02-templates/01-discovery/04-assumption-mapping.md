@@ -2,6 +2,7 @@
 title: "Assumption Mapping"
 description: "A template to identify, categorize, and prioritize assumptions based on risk and uncertainty."
 summary: "Template to map and assess assumptions."
+weight: 40
 ---
 
 # Assumption Mapping Template
