@@ -1,6 +1,7 @@
 ---
 title: "What Is Product Management"
 description: "Definition of what is Product Management."
+weight: 10
 ---
 
 # What Is Product Management?
