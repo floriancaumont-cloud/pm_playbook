@@ -2,6 +2,7 @@
 title: "Product Management Playbook"
 description: "Product Management Playbook"
 weight: 1
+showContent: true
 ---
 
 Hi, I'm Florian and this is my **Product Management Playbook**
