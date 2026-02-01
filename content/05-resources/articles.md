@@ -6,7 +6,7 @@ showContent: true
 layout: single
 ---
 
-![Articles](/images/pm-playbook-articles.jpg)
+![Articles](/static/images/pm-playbook-articles.jpg)
 
 ## List of Articles & Blogs
 
