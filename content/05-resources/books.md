@@ -4,7 +4,7 @@ description: "Essential books for Product Managers, covering product discovery, 
 summary: "Foundational and advanced books every Product Manager should read."
 ---
 
-![Books](/images/pm-playbook-books.jpg)
+![Books](images/pm-playbook-books.jpg)
 
 ## Books
 
