@@ -1,6 +1,7 @@
 ---
 title: "Outcomes vs Output"
 description: "The difference between Outcomes and Output."
+weight: 40
 ---
 
 # Outcomes vs Output
