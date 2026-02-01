@@ -1,6 +1,7 @@
 ---
 title: "Stakeholder Management"
 description: "How to manage Stakeholders."
+weight: 60
 ---
 
 # Stakeholder Management
