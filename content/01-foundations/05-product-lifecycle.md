@@ -1,6 +1,7 @@
 ---
 title: "Product Lifecycle"
 description: "The definition of the Product Lifecycle."
+weight: 50
 ---
 
 # The Product Lifecycle
