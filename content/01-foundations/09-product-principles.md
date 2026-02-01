@@ -1,6 +1,7 @@
 ---
 title: "Product Principles"
 description: "Main principles to follow for a good product."
+weight: 90
 ---
 
 # Product Principles
