@@ -1,6 +1,7 @@
 ---
 title: "Metrics and Measuring Success"
 description: "How to use metrics and measure success."
+weight: 80
 ---
 
 # Metrics and Measuring Success
