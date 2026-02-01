@@ -1,6 +1,7 @@
 ---
 title: "Problem vs Solution Thinking"
 description: "The difference between Problem and Solution Thinking."
+weight: 30
 ---
 
 # Problem vs Solution Thinking
