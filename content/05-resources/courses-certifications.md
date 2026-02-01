@@ -4,6 +4,8 @@ description: "Courses and certifications to build, validate, and deepen product 
 summary: "Learning programs and certifications for developing product management expertise."
 ---
 
+![Certifications](images/pm-playbook-certifications.jpg)
+
 ## Courses & certifications
 
 ### Agile & Methodology
