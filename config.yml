@@ -6,6 +6,10 @@ theme: "PaperMod"
 pagination:
   pagerSize: 20
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
