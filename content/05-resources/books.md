@@ -5,6 +5,7 @@ summary: "Foundational and advanced books every Product Manager should read."
 ---
 
 ![Books](pm_playbook/images/pm-playbook-books.jpg)
+
 {{< figure 
   src="images/pm-playbook-books.jpg" 
   alt="Product Management Books" 
