@@ -4,7 +4,7 @@ description: "Product Management Playbook"
 weight: 1
 ---
 
-Hi, I'm Florian and this is my ##🧠 Product Management Playbook
+Hi, I'm Florian and this is my ##Product Management Playbook
 
 This site is a curated collection of:
 - Foundations
