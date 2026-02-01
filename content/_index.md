@@ -7,7 +7,7 @@ showContent: true
 
 Hi, I'm Florian and this is my **Product Management Playbook**
 
-![PM Playbook](/images/pm-playbook-cover.jpg)
+![PM Playbook](static/images/pm-playbook-cover.jpg)
 
 This site is a curated collection of:
 - Foundations
