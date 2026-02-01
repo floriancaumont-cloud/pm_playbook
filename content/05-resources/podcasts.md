@@ -4,7 +4,7 @@ description: "Podcasts featuring conversations, interviews, and insights on prod
 summary: "Podcasts to learn from experienced Product Leaders and practitioners."
 ---
 
-![Podcasts](/images/pm-playbook-podcasts.jpg)
+![Podcasts](/static/images/pm-playbook-podcasts.jpg)
 
 ## Podcasts
 
