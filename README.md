@@ -3,7 +3,7 @@
 A curated collection of **Product Management best practices, templates, frameworks, and real-world projects**.
 Built from hands-on experience across product discovery, delivery, strategy, and stakeholder alignment.
 
-![PM Playbook](images/pm-playbook-cover.jpg)
+![PM Playbook](/images/pm-playbook-cover.jpg)
 
 This repository is designed to be **practical**, **actionable**, and **continuously evolving**.
 
