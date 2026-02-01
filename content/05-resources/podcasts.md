@@ -4,6 +4,8 @@ description: "Podcasts featuring conversations, interviews, and insights on prod
 summary: "Podcasts to learn from experienced Product Leaders and practitioners."
 ---
 
+![Podcasts](images/pm-playbook-podcasts.jpg)
+
 ## Podcasts
 
 - Lenny’s Podcast https://www.lennysnewsletter.com/podcast
