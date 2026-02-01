@@ -1,6 +1,7 @@
 ---
 title: "Decision Making"
 description: "How to make decisions as a Product Manager."
+weight: 70
 ---
 
 # Decision Making as a PM
