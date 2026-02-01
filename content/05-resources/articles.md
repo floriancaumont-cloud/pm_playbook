@@ -4,7 +4,7 @@ description: "A curated selection of articles and blogs covering product managem
 summary: "Articles and blogs to stay current on product thinking, practices, and trends."
 ---
 
-![Articles](images/pm-playbook-articles.jpg)
+![Articles](/images/pm-playbook-articles.jpg)
 
 ## List of Articles & Blogs
 
