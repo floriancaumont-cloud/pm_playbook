@@ -4,6 +4,8 @@ description: "A curated selection of articles and blogs covering product managem
 summary: "Articles and blogs to stay current on product thinking, practices, and trends."
 ---
 
+![PM Playbook](images/pm-playbook-articles.jpg)
+
 ## List of Articles & Blogs
 
 - Teresa Torres – Product Discovery https://www.producttalk.org/author/teresa/
