@@ -1,6 +1,7 @@
 ---
 title: "The Role of a Product Manager"
 description: "Definition of the role of a Product Manager."
+weight: 20
 ---
 
 # The Role of a Product Manager
