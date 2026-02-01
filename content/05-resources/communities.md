@@ -4,7 +4,7 @@ description: "Product management communities where practitioners share knowledge
 summary: "Communities to learn, connect, and grow with other Product Managers."
 ---
 
-![Communities](/static/images/pm-playbook-communities.jpg)
+![Communities](/images/pm-playbook-communities.jpg)
 
 ## Communities
 
