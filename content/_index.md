@@ -1,6 +1,6 @@
 ---
 title: "Product Management Playbook"
-description: "Hi, I'm Florian and this is my 🧠 Product Management Playbook."
+description: "Product Management Playbook"
 weight: 1
 ---
 
