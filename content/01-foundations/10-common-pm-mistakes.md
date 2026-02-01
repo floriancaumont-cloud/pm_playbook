@@ -1,6 +1,7 @@
 ---
 title: "Common PM Mistakes"
 description: "Common mistakes a Product Manager faces."
+weight: 100
 ---
 
 # Common Product Manager Mistakes
