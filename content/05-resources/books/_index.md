@@ -6,7 +6,7 @@ summary: "Foundational and advanced books every Product Manager should read."
 
 ![Books](pm-playbook-books.jpg)
 
-## Books
+## List of books
 
 ### Product & Discovery
 - Inspired – Marty Cagan https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507 
