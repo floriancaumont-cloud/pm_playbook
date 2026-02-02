@@ -4,9 +4,9 @@ description: "Courses and certifications to build, validate, and deepen product 
 summary: "Learning programs and certifications for developing product management expertise."
 ---
 
-![Certifications](pm_playbook/images/pm-playbook-certifications.jpg)
+![Certifications](pm-playbook-certifications.jpg)
 
-## Courses & certifications
+## List of courses & certifications
 
 ### Agile & Methodology
 - Professional Scrum Product Owner (PSPO) https://www.scrum.org/professional-scrum-certifications
