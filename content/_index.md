@@ -27,3 +27,5 @@ This repository exists to:
 - Encourage open collaboration and discussion
 
 Whether you are an Aspiring PM, Product Manager, Product Owner, or Founder, this repo is meant to save you time and sharpen your thinking.
+
+To know more about myself: https://www.floriancaumont.com
