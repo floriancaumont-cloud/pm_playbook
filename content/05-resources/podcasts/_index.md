@@ -4,9 +4,9 @@ description: "Podcasts featuring conversations, interviews, and insights on prod
 summary: "Podcasts to learn from experienced Product Leaders and practitioners."
 ---
 
-![Podcasts](pm_playbook/images/pm-playbook-podcasts.jpg)
+![Podcasts](pm-playbook-podcasts.jpg)
 
-## Podcasts
+## List of podcasts
 
 - Lenny’s Podcast https://www.lennysnewsletter.com/podcast
 - Product Love https://open.spotify.com/show/7EEOkGGhmVnqHY4CNNrZDv
