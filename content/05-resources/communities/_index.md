@@ -4,9 +4,9 @@ description: "Product management communities where practitioners share knowledge
 summary: "Communities to learn, connect, and grow with other Product Managers."
 ---
 
-![Communities](pm_playbook/images/pm-playbook-communities.jpg)
+![Communities](pm-playbook-communities.jpg)
 
-## Communities
+## List of communities
 
 - Mind the Product https://www.mindtheproduct.com/
 - Product School Community https://productschool.com/
